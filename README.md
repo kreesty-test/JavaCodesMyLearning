@@ -1,2 +1,2 @@
 # JavaCodesMyLearning
-# This codes are my JAVA learning journey files.
+This codes are my JAVA learning journey files.
